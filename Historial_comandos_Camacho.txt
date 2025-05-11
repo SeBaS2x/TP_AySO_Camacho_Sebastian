@@ -1,0 +1,553 @@
+ls
+cd reportgit
+report git
+cd repotgit
+cd repogit
+ls -l
+cd ..
+ssh-keygen -t ed25519
+pwd
+whoami
+man
+man man
+ls -l
+ls -la
+cd .shh
+cd .ssh
+cd ..
+cat /etc /group
+cat /etc/group
+cat /etc/group|more
+ls -l
+cat readme
+cat README
+ls -l
+mkdir clase4
+ls -l
+cd clase4
+cat > archivo.txt
+ls -l
+ls -ls
+cat archivo.txt
+cat << FIN > archivo2.txt
+liena4
+linea5
+linea6
+FIN
+
+ls -l
+cat archivo1.txt > archivo3.txt
+ls -l
+cat archivo3.txt
+cat archivo2
+cat archivo.txt 
+archivo.txt > archivo3.txt
+archivo.txt >archivo3.txt
+cat archivo.txt >archivo3.txt
+cat archivo.3.txt
+ls -l
+cat archivo3.txt
+archivo2.txt archivo.txt > archivo4.txt
+cat archivo2.txt archivo.txt > archivo4.txt
+cat archivo4.txt
+c..
+cd...
+dc...
+cd ..
+sudo apt install tree
+sudo snap install tree
+exit
+ls -l
+cat clase4
+cd clase4
+ls -l
+cat archivo.txt
+cat archivo2.txt
+cart archivo3.txt
+cat archivo3.txt
+cat archivo4.tx
+cat archivo2.txt > archivo3.txt
+cat archivo3.txt
+cat archivo.txt >archivo3.txt
+cat archivo3.txt
+cat archivo2 >>archivo3.txt
+cat archivo2.txt >>archivo3.txt
+cat archivo3.txt
+grep 6 archivo3.txt
+grep -v 6 archivo3.txt
+grep -n 6 archivo3.txt
+grep linea archivo3.txt
+grep -i linea archivo3.txt
+claen
+clean
+clear
+cat /proc/cpuinfo
+cat /proc/cpuinfo | less
+ls -l
+mk vacia
+mkdir vacia
+ls -l
+mkdir practica2
+ls-l
+ls -l
+rn -r vacia
+rm -r vacia/
+ls -l
+rm -r archivo4.txt
+ls-l
+ls -l
+tree
+mk dir -p dir1/dir2/dir3
+mkdir -p dir1/dir2/dir3
+ls -l
+tree
+mkdir practica3-directoriosAnidados
+ls -l
+cat practica3-directoriosAnidados
+cat archivo3.txt
+cat practica3-directoriosAnidados
+cd practica3-directoriosAnidados
+mkdir -p {mama/hijo_1,hijo_2,hijo_3}, {papa/hijo_1,hijo_2,hijo_3}
+ls -l
+cd mama
+ls -l
+rm -r mama
+cd ..
+rm -r mama
+rm -r papa
+rm -r hijo_2
+ls -l
+rm -r hijo_2,
+rm -r hijo_3,
+rm -r hijo_3
+ls-l
+ls -l
+mkdir -p {mama, papa}/hijo{1,2.3}
+ls -l
+cd papa}
+ls-l
+ls -l
+cd ..
+rm -r papa}
+rm -r {mama
+rm -r {mama,
+ls -l
+mkdir -p { mama,papa }/hijo{1,2,3}
+ls -l
+cd {
+ls -l
+cd ..
+cd }
+ls -l
+cd ..
+rm -r {
+rm -r }
+ls -l
+cd mama
+rm -r mama,papa
+ls -l
+mk -p {mama,papa}/hijo{1,2,3}
+mkdir -p {mama,papa}/hijo{1,2,3}
+ls -l
+cd mama
+ls-l
+ls -l
+cd ..
+cd papa
+ls -l
+cd..
+cd ..
+tree
+cd ..
+ssh
+ssh-keygen
+ls -l .shh/
+ls -l .shh
+ls -l .shh/
+sudo systemctl status sshd
+cat. shh/id_ed25519.pub
+cat .shh/id_ed25519.pub
+ls -l .shh/
+ssh-keygen -t ed25519
+ls -l .ssh/
+cat .ssh/id_ed25519.pub
+sudo systemctl status sshd
+cat .shh/id_ed25519.pub
+clear
+ssh-keygen -t ed25519
+ls -l.ssh/
+ls -l .ssh/
+sudo systemctl status sshd
+q
+cat .shh/id_ed25519.pub
+ls -l .ssh/
+cat .shh/id_ed25519.pub
+exit
+ssh-keygen -t ed25519
+ls -l .ssh/
+cat. shh/id_ed25519.pub
+cat .shh/id_ed25519.pub
+cat .ssh/id_ed25519.pub
+
+s
+etexit
+exit
+xitexitdxi
+git clone git@github.com:SeBaS2x/TP_AISO_CAMACHO_SEBASTIAN.git
+ls
+git status
+git status cd TP_AISO_CAMACHO_SEBASTIAN
+cd TP_AISO_CAMACHO_SEBASTIAN
+ls
+git status
+git commit
+git commit -m
+ls
+git commit 
+git config --global user.email "sebastiancamacho2311@gmail.com"
+git config --global user.name "SeBaS2x"
+git commit -m "commit clase4"
+tree
+git commit -m "commit clase4"
+git commit -m "commit clase2"
+git commit -m "commit "
+exit
+ls -l
+ls
+cd repogit
+ls -l
+cd ..
+ls -l
+ls -l/home
+ls -l /home
+pwd
+useradd -m -s /bin/bash -c "mi primer usuario" SebastianC
+sudo useradd -m -s /bin/bash -c "mi primer usuario" SebastianC
+ls -l /home
+sudo passwd SebastianC
+su SebastianC
+sudo passwd SebastianC
+pwd
+ls -l
+sudo passwd SebastianC
+su - SebastianC
+pwd
+chown vagrant:vagrant /home/SebastianC/texto.txt
+sudo chown vagrant:vagrant /home/SebastianC/texto.txt
+sudo ls -l /home/SebastianC
+su - SebastianC
+sudo chown vagrant:vagrant /home/SebastianC/texto-prueba.txt
+su - SebastianC
+mkdir clase5
+ls -l
+cat README
+cat << FIN > script1
+echo hola
+rmdir clase5
+ls -l
+car README
+FIN
+
+ls -l
+cat script1
+cat snap
+bash script1
+ls -l
+#!/bin/bash
+bim scrip1
+bin script1
+bien secrip2
+vim script2.sh
+ls -l
+exit
+ssh-keygen -t ed25519
+ls -l
+ls -la
+ls -l .ssh/
+cat $HOME/.ssh/*.pub
+cat $HOME/.ssh/id_ed25519.pub
+ls -l
+cd repogit
+ls -l
+git clone git@github.com:SeBaS2x/TP_AySO_Camacho_Sebastian.git
+ls -l
+cd TP_AySO_Camacho_Sebastian/
+ls -l
+cd ..
+cat /etc/os-release
+man grep
+grep -i HomeE_url /etc/os-release 
+grep -i HomE_url /etc/os-release 
+grep -i HomE_url /etc/os-release > dato_url.txt
+cat dato_url.txt
+git status
+git add .
+git status
+git add .
+git status
+cd TP_AySO_Camacho_Sebastian/
+git status
+git add .
+git status
+ls -l
+cat dato_url.txt
+grep -i HomE_url /etc/os-release > dato_url.txt
+ls -l
+git status
+git add
+git add .
+git commit -m "ADD: agregado 1er
+ejercicio sobre datos_usuarios.txt"
+git status
+git push
+cd ..
+exit
+cat /etc/os-release 
+whoami
+grep
+cat /etc/passwd
+useres
+users
+chown
+su - SebastianC
+exit
+ls -l /home
+pwd
+su - SebastianC
+pwd
+ls -l
+ls -l /home/SebastianC
+sudo ls -l /home/SebastianC
+exho hola >> texto-prueba.txt
+echo hola >> texto-prueba.txt
+exit
+su - SebastianC
+pwd
+clear
+pwd
+echo hola
+ls -l
+mkdir clase5
+ls -l
+rmdir scipt1
+rmdir script1
+cat clase4
+cat README
+rm script*
+ls -l
+cat << FIN > script1
+echo hola
+echo como estas 
+ls -l
+cat README 
+pwd
+FIN
+
+ls -l
+cat script1
+bash script1
+vim script2.sh
+ls -l
+cat script2.sh
+./script2.sh
+chmod 764 script2.sh
+ls -l
+./script2.sh
+ls -la
+cd .ssh
+ls -l
+ls -la
+cd ..
+ls -l
+cd repogit
+ls -l
+cd TP_AySO_Camacho_Sebastian
+ls -l
+cat README.txt
+cat/etc/os.relese
+cat/etc/os-relese
+cat /etc/os-relese
+cat /etc/os-release
+cd ..
+whoami
+echo "Usuario=$(whoami)>datos_usuario.txt
+sebastian 
+camacho
+turno tarde 
+div: 211
+wd
+clean
+calean
+clea
+clear
+les
+exit
+ls -l
+echo "Usuario=$(whoami)" > datos_usuario.txt
+ls -l
+cat datos_usuario.txt
+su SebastianC
+pwd
+ls -l
+cd ..
+ls -l
+cd sebastianC
+cd SebastianC
+cd vagrant
+pwd 
+ls -l
+git add .
+git add . 
+git commit -m "ADD: agregado 1er 
+ejercicio sobre datos_usuarios.txt"
+git status
+cd repogit
+ls -l
+echo "Usuario=$(whoami)" > datos_usuario.txt
+ls -l
+git status
+cd TP_AySO_Camacho_Sebastian/
+ls -l
+echo "Usuario=$(whoami)" > datos_usuario.txt
+ls -l
+git status
+git add .
+git status
+git commit -m "ADD: agregado 1er 
+ejercicio sobre datos_usuarios.txt" 
+git push
+git status
+grep 
+tail -n1
+su SebastianC
+ls -l
+cd TP_AISO_CAMACHO_SEBASTIAN/
+ls -l
+pwd
+cd ..
+cd repogit
+ls -l
+grep "model name" /proc/cpuinfo | head -n1 >> 
+t
+grep "model name" /proc/cpuinfo | head -n1 >> 
+datos_usuarios.txt 
+ls -l
+cat datos_usuario.txt 
+grep "model name" /proc/cpuinfo | head -n1 >> 
+datos_usuarios.txt 
+cd ..
+grep "model name" /proc/cpuinfo | head -n1 >> 
+datos_usuarios.txt 
+ls -l
+cd repogit/
+grep "model name" /proc/cpuinfo | head -n1 >> datos_usuario.txt
+ls -l
+cat datos_usuario.txt 
+git status
+cd TP_AySO_Camacho_Sebastian/
+ls -l
+grep "model name" /proc/cpuinfo | head -n1 >> datos_usuario.txt
+ls -l
+cat datos_usuario.txt 
+git add .
+git comit -m "feat: Añadiendo información de CPU"
+git commit -m "ADD: agregado 1er 
+“feat: Añadiendo información de CPU” 
+vagrant halt
+exitvagrant halt
+cd ..
+exit
+exiiiit
+ls -l
+cd TP_AISO_CAMACHO_SEBASTIAN/
+ls -l
+xcd ..
+cd ..
+ls -l
+cd repogit/
+ls -l
+cd TP_AySO_Camacho_Sebastian/
+ls -l
+cat datos_usuario.txt 
+git status
+git commit -m "feat: Añadiendo información de CPU"
+git status
+git push
+ls -l
+cat <<EOF >> README.md
+Alumno: Sebastian Camacho
+Division: 211
+Turno: Tarde 
+EOF
+
+cat README.md 
+git add README.md datos_usuarios.txt 
+git status
+git add README.md datos_usuario.txt
+git commit -m "ADD: Añadiendo Readme y datos de usuario"
+git status
+git push
+ls -l
+mkdir -p {material,material2}/{uni1,uni2,uni3}
+ls -l
+cat material
+cd material
+ls -l
+cd ..
+tree
+git push
+git status
+rm matial
+rmdir
+ls -l
+rm -r
+ls -l
+cd repogit/
+ls -l
+TP_AySO_Camacho_Sebastian/
+tree
+ls -l
+cd TP_AySO_Camacho_Sebastian/
+tree
+rm - r material
+rm -r material
+ls -l
+rm -rmaterial2
+rm -r material2
+ls -l
+mkdir punto_8
+ls -l
+cd punto_8/
+ls -l
+mkdir -p {material,material2}/{uni1,uni2,uni3}
+ls -l
+tree
+cd ..
+tree
+ls -l
+mv punto_8 punto_7
+ls -l
+script_dir.sh
+vi script_dir.sh
+ls -l
+cat script_dir.sh 
+./script_dir.sh
+chmod 764
+chmod 764 script_dir.sh
+ls -l
+./script_dir.sh
+./ script_dir.sh
+./script_dir.sh
+pwd
+cat script_dir.sh 
+bash script_dir.sh 
+ls -l
+rm -r material
+ls -l
+rm -r material2
+tree
+git add .
+git status
+git commit -m "ADD: Añadiendo script"
+git push
+history -a
